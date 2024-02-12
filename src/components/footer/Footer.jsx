@@ -22,12 +22,13 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur.
+          Hey there!! I'm Saroj Kumar Dey, and I've created this project to
+          showcase my frontend skills. Taking cues from TMDB, I've integrated
+          their API to bring in some awesome content. Using React as the
+          frontend framework, I've included features like lazy loading and error
+          handling to ensure the website runs smoothly. While this project is
+          non-profit and simply a part of my portfolio, it's a great way for me
+          to demonstrate what I can do with web development.
         </div>
         <div className="socialIcons">
           <span className="icon">
